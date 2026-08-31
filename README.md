@@ -1,4 +1,4 @@
-# Text-to-Image Generator (Pretrained Stable Diffusion)      
+# Text-to-Image Generator (Pretrained Stable Diffusion)       
 
 A web app that generates images from text prompts using a **pretrained** diffusion model — no training required. Built with Hugging Face `diffusers` and a `Gradio` UI, designed to run for free on Google Colab.
 
